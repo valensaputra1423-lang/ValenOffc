@@ -1,1 +1,1 @@
-"base_url" : "http://dilzxxvps.pteroqserver.web.id:10152"
+"base_url" : "http://herstore.freszeenet.my.id:11610"
