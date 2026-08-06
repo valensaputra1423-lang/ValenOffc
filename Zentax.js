@@ -1,1 +1,3 @@
-"base_url" : "http://herstore.freszeenet.my.id:11610"
+{
+  "base_url": "http://herlovemei.rexypediaa.biz.id:25594"
+}
