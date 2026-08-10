@@ -1,3 +1,3 @@
 {
-  "base_url": "http://herlovemei.rexypediaa.biz.id:3012"
+  "base_url": "http://herganteng.pteroqserver.web.id:11834"
 }
