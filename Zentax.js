@@ -1,3 +1,3 @@
 {
-  "base_url": "http://herganteng.pteroqserver.web.id:11834"
+  "base_url": "http://herherdi.pteroqserver.web.id:11682"
 }
