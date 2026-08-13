@@ -1,3 +1,3 @@
 {
-  "base_url": "http://herherdi.pteroqserver.web.id:11682"
+  "base_url": "http://adminrrzk.rexypediaa.biz.id:25595"
 }
