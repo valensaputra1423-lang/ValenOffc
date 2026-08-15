@@ -1,3 +1,3 @@
 {
-  "base_url": "http://adminrrzk.rexypediaa.biz.id:25595"
+  "base_url": "http://adminrrzk.rexypediaa.biz.id:3001"
 }
