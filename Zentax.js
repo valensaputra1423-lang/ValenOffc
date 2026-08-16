@@ -1,3 +1,3 @@
 {
-  "base_url": "http://adminrrzk.rexypediaa.biz.id:3001"
+  "base_url": "http://hervpsbaru.pteroqserver.web.id:11440"
 }
