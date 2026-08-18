@@ -1,3 +1,3 @@
 {
-  "base_url": "http://hervpsbaru.pteroqserver.web.id:11440"
+  "base_url": "http://hergantengvps.pteroq.xyz:2269"
 }
