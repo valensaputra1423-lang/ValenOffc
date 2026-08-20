@@ -1,3 +1,3 @@
 {
-  "base_url": "http://hergantengvps.pteroq.xyz:2269"
+  "base_url": "http://sedihbangether.rexypediaa.biz.id:25581"
 }
