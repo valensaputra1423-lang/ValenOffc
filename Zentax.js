@@ -1,3 +1,3 @@
 {
-  "base_url": "http://sedihbangether.rexypediaa.biz.id:25581"
+  "base_url": "http://luwwyxyzprivate.pteroq.xyz:2631"
 }
