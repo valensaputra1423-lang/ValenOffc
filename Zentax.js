@@ -1,3 +1,3 @@
 {
-  "base_url": "http://panelmerdekafour.ozilganteng.my.id:11926"
+  "base_url": "http://herbosmuda.rexypediaa.biz.id:25586"
 }
