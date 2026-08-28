@@ -1,3 +1,3 @@
 {
-  "base_url": "http://herbosmuda.rexypediaa.biz.id:25586"
+  "base_url": "http://herz.pteroq.biz.id:8313"
 }
